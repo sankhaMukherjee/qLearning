@@ -1,1 +1,16 @@
 udacity-course/2.\ value\ based\ methods/Project\ Navigation/p1_navigation/*
+
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Dont save any catached files
+**/__pycache__/
+
+# Cached files from Sublime Text
+._*
+**/._*
+
+
